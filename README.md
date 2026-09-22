@@ -16,7 +16,7 @@ Python · OpenCV · MCTS · Robotics · Camera Calibration · Serial Control
   </a>
 </p>
 
-<p align="center"><strong>▶ Click the image to watch the full 1080p demonstration (3:22).</strong></p>
+<p align="center"><strong>▶ Click the image to watch the full demonstration (3:22).</strong></p>
 
 ## Overview
 
