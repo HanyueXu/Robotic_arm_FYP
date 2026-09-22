@@ -1,0 +1,5 @@
+numpy>=1.23
+opencv-python>=4.7
+pygame>=2.1
+pyserial>=3.5
+scipy>=1.9
